@@ -1,0 +1,10 @@
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\bin\Debug\WinFormsCalc.exe.config
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\bin\Debug\WinFormsCalc.exe
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\bin\Debug\WinFormsCalc.pdb
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\obj\Debug\WinFormsCalc.csprojAssemblyReference.cache
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\obj\Debug\WinFormsCalc.Form1.resources
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\obj\Debug\WinFormsCalc.Properties.Resources.resources
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\obj\Debug\WinFormsCalc.csproj.GenerateResource.cache
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\obj\Debug\WinFormsCalc.csproj.CoreCompileInputs.cache
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\obj\Debug\WinFormsCalc.exe
+c:\users\joca\source\repos\WinFormsCalc\WinFormsCalc\obj\Debug\WinFormsCalc.pdb
